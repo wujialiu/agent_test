@@ -1,0 +1,3 @@
+study,metric,population,arm,timepoint,value,unit,denominator
+study-a101,randomized,itt,active,baseline,50,participants,
+study-a101,randomized,itt,placebo,baseline,50,participants,

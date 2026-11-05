@@ -1,0 +1,26 @@
+{
+  "study": "study-a101",
+  "label": "Amended safety",
+  "sources": [
+    {
+      "document_id": "protocol",
+      "version": "v1",
+      "filename": "protocol.json"
+    },
+    {
+      "document_id": "disposition",
+      "version": "v1",
+      "filename": "disposition.csv"
+    },
+    {
+      "document_id": "efficacy",
+      "version": "v1",
+      "filename": "efficacy.csv"
+    },
+    {
+      "document_id": "safety-table",
+      "version": "v2",
+      "filename": "safety-v2.csv"
+    }
+  ]
+}

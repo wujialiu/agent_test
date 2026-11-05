@@ -1,0 +1,44 @@
+{
+  "facts": [
+    {
+      "study": "study-b202",
+      "metric": "responders",
+      "population": "itt",
+      "arm": "active",
+      "timepoint": "week-12",
+      "value": "39",
+      "unit": "participants",
+      "denominator": 72
+    },
+    {
+      "study": "study-b202",
+      "metric": "responders",
+      "population": "itt",
+      "arm": "placebo",
+      "timepoint": "week-12",
+      "value": "28",
+      "unit": "participants",
+      "denominator": 70
+    },
+    {
+      "study": "study-b202",
+      "metric": "responders",
+      "population": "per-protocol",
+      "arm": "active",
+      "timepoint": "week-12",
+      "value": "37",
+      "unit": "participants",
+      "denominator": 65
+    },
+    {
+      "study": "study-b202",
+      "metric": "responders",
+      "population": "itt",
+      "arm": "active",
+      "timepoint": "week-4",
+      "value": "22",
+      "unit": "participants",
+      "denominator": 72
+    }
+  ]
+}

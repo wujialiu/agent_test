@@ -1,0 +1,31 @@
+{
+  "study": "study-a101",
+  "label": "Conflicting safety sources",
+  "sources": [
+    {
+      "document_id": "protocol",
+      "version": "v1",
+      "filename": "protocol.json"
+    },
+    {
+      "document_id": "disposition",
+      "version": "v1",
+      "filename": "disposition.csv"
+    },
+    {
+      "document_id": "efficacy",
+      "version": "v1",
+      "filename": "efficacy.csv"
+    },
+    {
+      "document_id": "safety-table",
+      "version": "v1",
+      "filename": "safety-v1.csv"
+    },
+    {
+      "document_id": "safety-reconciliation",
+      "version": "v1",
+      "filename": "safety-reconciliation.csv"
+    }
+  ]
+}

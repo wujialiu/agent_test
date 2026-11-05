@@ -1,0 +1,24 @@
+{
+  "facts": [
+    {
+      "study": "study-b202",
+      "metric": "randomized",
+      "population": "itt",
+      "arm": "active",
+      "timepoint": "baseline",
+      "value": "72",
+      "unit": "participants",
+      "denominator": null
+    },
+    {
+      "study": "study-b202",
+      "metric": "randomized",
+      "population": "itt",
+      "arm": "placebo",
+      "timepoint": "baseline",
+      "value": "70",
+      "unit": "participants",
+      "denominator": null
+    }
+  ]
+}

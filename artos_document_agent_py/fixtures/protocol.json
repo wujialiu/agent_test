@@ -1,0 +1,14 @@
+{
+  "facts": [
+    {
+      "study": "study-a101",
+      "metric": "design",
+      "population": "protocol",
+      "arm": "all",
+      "timepoint": "baseline",
+      "value": "Randomized, double-blind, placebo-controlled parallel-group study",
+      "unit": "text",
+      "denominator": null
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+study,metric,population,arm,timepoint,value,unit,denominator
+study-a101,responders,itt,active,week-12,31,participants,50
+study-a101,responders,itt,placebo,week-12,20,participants,50
+study-a101,responders,per-protocol,active,week-12,30,participants,45
+study-a101,responders,itt,active,week-4,18,participants,50

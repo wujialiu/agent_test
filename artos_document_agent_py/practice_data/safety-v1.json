@@ -1,0 +1,34 @@
+{
+  "facts": [
+    {
+      "study": "study-b202",
+      "metric": "participants_with_ae",
+      "population": "safety",
+      "arm": "active",
+      "timepoint": "week-12",
+      "value": "9",
+      "unit": "participants",
+      "denominator": 71
+    },
+    {
+      "study": "study-b202",
+      "metric": "participants_with_ae",
+      "population": "safety",
+      "arm": "placebo",
+      "timepoint": "week-4",
+      "value": "3",
+      "unit": "participants",
+      "denominator": 69
+    },
+    {
+      "study": "study-b202",
+      "metric": "participants_with_ae",
+      "population": "itt",
+      "arm": "placebo",
+      "timepoint": "week-12",
+      "value": "5",
+      "unit": "participants",
+      "denominator": 70
+    }
+  ]
+}

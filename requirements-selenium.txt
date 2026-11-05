@@ -1,0 +1,2 @@
+-r requirements-artos.txt
+selenium==4.52.0

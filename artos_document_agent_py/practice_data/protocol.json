@@ -1,0 +1,14 @@
+{
+  "facts": [
+    {
+      "study": "study-b202",
+      "metric": "design",
+      "population": "protocol",
+      "arm": "all",
+      "timepoint": "baseline",
+      "value": "Phase 2 randomized, double-blind, placebo-controlled parallel-group study",
+      "unit": "text",
+      "denominator": null
+    }
+  ]
+}

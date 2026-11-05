@@ -1,0 +1,1 @@
+With Python 3.13, Node.js, and Google Chrome installed, open Terminal in the repository root, run `python3 -m venv .venv`, `.venv/bin/python -m pip install -r requirements-selenium.txt`, and `npm --prefix artos_document_agent_py/web ci` once, then run `./run_selenium.sh` and press Enter at each checkpoint to watch Selenium step through the workflow in Chrome.

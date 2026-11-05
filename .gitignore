@@ -8,3 +8,5 @@ credentials.json
 client_secret*.json
 token.json
 *-token.json
+artos_document_agent_py/web/node_modules/
+artos_document_agent_py/web/dist/

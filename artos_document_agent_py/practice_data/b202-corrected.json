@@ -1,0 +1,26 @@
+{
+  "study": "study-b202",
+  "label": "B202 corrected Week 12 safety",
+  "sources": [
+    {
+      "document_id": "protocol",
+      "version": "v1",
+      "filename": "protocol.json"
+    },
+    {
+      "document_id": "enrollment",
+      "version": "v1",
+      "filename": "enrollment.json"
+    },
+    {
+      "document_id": "efficacy",
+      "version": "v1",
+      "filename": "efficacy.json"
+    },
+    {
+      "document_id": "safety-table",
+      "version": "v2",
+      "filename": "safety-v2.json"
+    }
+  ]
+}

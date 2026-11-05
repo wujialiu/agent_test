@@ -1,0 +1,5 @@
+study,metric,population,arm,timepoint,value,unit,denominator
+study-a101,participants_with_ae,safety,active,week-12,5,participants,49
+study-a101,participants_with_ae,safety,placebo,week-12,4,participants,48
+study-a101,participants_with_ae,safety,active,week-4,2,participants,49
+study-a101,participants_with_ae,itt,active,week-12,5,participants,50
