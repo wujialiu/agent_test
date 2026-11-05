@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ruff_cache/
+.agent_lab/
+.env
+.env.*
+credentials.json
+client_secret*.json
+token.json
+*-token.json
